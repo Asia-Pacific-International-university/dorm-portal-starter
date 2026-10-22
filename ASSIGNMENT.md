@@ -295,7 +295,7 @@ Each bonus item is its own commits and must include tests:
 - Search and filters on list pages
 - Email notifications (failed inspection, visit approved)
 - Holidays stored in the database with an admin screen (replaces `ThailandHolidays`)
-- A project `README.md` describing setup and modules
+- Keep `README.md` up to date: document every module and URL you add
 
 ---
 
